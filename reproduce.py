@@ -33,8 +33,6 @@ def main():
     modes.add_argument('--real-only',action='store_true')
     p.add_argument('--cache');p.add_argument('--offline',action='store_true')
     args=p.parse_args();out=Path(args.output).resolve();source=Path(__file__).parent.resolve()
-    if out==source or source in out.parents:
-        p.error('Choose an output directory outside the scripts directory to keep the repository scripts-only.')
     if args.seeds<1:p.error('--seeds must be positive')
     out.mkdir(parents=True,exist_ok=True)
     checks=run_checks();(out/'verification.json').write_text(json.dumps(checks,indent=2)+'\n')

@@ -1,0 +1,39 @@
+{
+  "study_date": "2026-09-25",
+  "case_count": 252,
+  "fit_count": 1512,
+  "seeds": 10,
+  "sizes": [
+    8,
+    16,
+    32
+  ],
+  "pilot_count": 24,
+  "alphas": [
+    0,
+    0.5,
+    1
+  ],
+  "runtime_seconds": 32.250327071000015,
+  "python": "3.13.15",
+  "numpy": "2.1.3",
+  "scipy": "1.16.3",
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+  "machine": "x86_64",
+  "script_sha256": {
+    "generate_data.py": "8a830162e9bac66de71f1bed70ff710788c9146711a0ae9a302abb9b1fb47348",
+    "run_experiments.py": "a8029d44df985dd0aaa87d3114e58de58c8355f6943b45889c3ddb833af8f020",
+    "download_real_data.py": "85cac642e15a6955642c7f66a543f9cfc32dcc62bbaad95d5eb6eeaadddacc76",
+    "verify_real.py": "da781892540e037fa1fbae21b5de0d5bc7b62492df5627c38f4cf1dad95eb26f",
+    "spline_core.py": "0ae69ec02a16172d1daaf57f3d5b09a3029c8eac2d123193ceb0364bfaae8774",
+    "generate_tables.py": "38d4f3f9e69bff358eb522dbb6f29512aa7bcc90bccae0fbbcfb0bea28f61259",
+    "report_real_results.py": "f80bad526f22747d7334dbe3ee07a4f26b55758a514c75d84663fa52db9e34be",
+    "generate_figures.py": "efcefc0e9e1fdee601c1fd6614ad49c609d991e85e8a512a63e054993757de93",
+    "run_real_experiments.py": "8a4cca3e6cb0b8dcf8f8467987222beb5f07caa19a9a4fa11394fd11ecc0a54b",
+    "reproduce.py": "dc0070dfe05ae5725ee83f8331d35b2659b47903721df0b058f2a97b0eb31612",
+    "verify.py": "5c32a41da5f449b257347071eb47b6f123a99ea0e3802abd020027bea2ff25a5"
+  },
+  "interpretation": "Exploratory synthetic boundary study. Not preregistered; not a real-data validation.",
+  "distance_metric": "Hausdorff distance between finite parameter-sampled point sets; not certified continuous distance.",
+  "license_note": "Synthetic formulas and provisional legacy coordinates are generated locally; confirm author rights before public release."
+}

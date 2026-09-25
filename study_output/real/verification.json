@@ -1,0 +1,18 @@
+{
+  "count": 10,
+  "checks": [
+    "segment distances equal exhaustive search",
+    "long segments remain candidates",
+    "index distinct retained endpoints",
+    "arclength distinct retained endpoints",
+    "closed selection keeps 32 unique anchors and one closure",
+    "closure duplicate excluded from held-out count",
+    "cleaning preserves original source indices",
+    "projection maps its centre to zero",
+    "cubic chord error respects derivative bound",
+    "distance metric similarity invariance"
+  ],
+  "maximum_distance_error": 0.0,
+  "chord_actual_error": 1.9764271802538403e-06,
+  "chord_error_bound": 1.9826986008335495e-06
+}

@@ -1,0 +1,107 @@
+{
+  "checks": {
+    "periodic_vs_independent_power_basis": {
+      "value": 2.1094237467877974e-15,
+      "tolerance": 2e-10,
+      "passed": true
+    },
+    "repeated_vs_independent_robin_system": {
+      "value": 7.771561172376096e-16,
+      "tolerance": 2e-10,
+      "passed": true
+    },
+    "interpolation_residual": {
+      "value": 6.661338147750939e-16,
+      "tolerance": 1e-10,
+      "passed": true
+    },
+    "periodic_derivatives_0_1_2": {
+      "value": 1.139372060035572e-15,
+      "tolerance": 1e-09,
+      "passed": true
+    },
+    "partition_of_unity": {
+      "value": 5.551115123125783e-16,
+      "tolerance": 2e-14,
+      "passed": true
+    },
+    "endpoint_robin_identity": {
+      "value": 3.4386457482944866e-16,
+      "tolerance": 1e-10,
+      "passed": true
+    },
+    "natural_vs_scipy": {
+      "value": 5.551115123125783e-16,
+      "tolerance": 1e-10,
+      "passed": true
+    },
+    "irrelevance_of_four_outer_exterior_knots": {
+      "value": 2.220446049250313e-16,
+      "tolerance": 1e-10,
+      "passed": true
+    },
+    "constant_vs_reflected_geometry": {
+      "value": 2.220446049250313e-16,
+      "tolerance": 1e-10,
+      "passed": true
+    },
+    "similarity_equivariance": {
+      "value": 3.552713678800501e-15,
+      "tolerance": 1e-10,
+      "passed": true
+    },
+    "open_reversal": {
+      "value": 6.661338147750939e-16,
+      "tolerance": 1e-10,
+      "passed": true
+    },
+    "periodic_cyclic_reindexing": {
+      "value": 2.4424906541753444e-15,
+      "tolerance": 1e-10,
+      "passed": true
+    },
+    "geometric_endpoint_curvature": {
+      "value": 2.728179309088124e-14,
+      "tolerance": 1e-09,
+      "passed": true
+    },
+    "geometric_positive_tangent_alignment": {
+      "value": 0.0,
+      "tolerance": 1e-12,
+      "passed": true
+    },
+    "speed_matched_endpoint_curvature": {
+      "value": 2.728179309088124e-14,
+      "tolerance": 1e-09,
+      "passed": true
+    },
+    "speed_matched_positive_tangent_alignment": {
+      "value": 0.0,
+      "tolerance": 1e-12,
+      "passed": true
+    },
+    "speed_matched_C1": {
+      "value": 1.790180836524724e-15,
+      "tolerance": 1e-10,
+      "passed": true
+    },
+    "analytic_derivative_vs_difference": {
+      "value": 8.862732769898685e-11,
+      "tolerance": 1e-06,
+      "passed": true
+    },
+    "invalid_inputs_not_rejected": {
+      "value": 0.0,
+      "tolerance": 0,
+      "passed": true
+    },
+    "minimum_relative_gap_shortfall": {
+      "value": 0.0,
+      "tolerance": 1e-14,
+      "passed": true
+    }
+  },
+  "count": 20,
+  "all_passed": true,
+  "python": "3.13.15"
+}

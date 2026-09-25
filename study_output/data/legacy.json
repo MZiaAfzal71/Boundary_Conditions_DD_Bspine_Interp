@@ -1,0 +1,214 @@
+[
+  {
+    "id": "legacy_closed",
+    "closed": true,
+    "points": [
+      [
+        3.2667,
+        3.4956
+      ],
+      [
+        3.4315,
+        5.2091
+      ],
+      [
+        -1.1818,
+        5.6046
+      ],
+      [
+        -2.0057,
+        2.6718
+      ],
+      [
+        0.0703,
+        -3.2597
+      ],
+      [
+        -3.192,
+        -3.4903
+      ],
+      [
+        -3.2249,
+        -5.138
+      ],
+      [
+        1.4214,
+        -5.3027
+      ],
+      [
+        2.3441,
+        -2.8972
+      ],
+      [
+        0.0703,
+        3.4956
+      ],
+      [
+        3.2667,
+        3.4956
+      ]
+    ],
+    "status": "provisional_pdf_transcription",
+    "source": "supplied main.pdf; printed coordinates, not digitized curve traces",
+    "limitations": "original exterior knots, solver and manual displacements unavailable"
+  },
+  {
+    "id": "legacy_open_a",
+    "closed": false,
+    "points": [
+      [
+        0,
+        0
+      ],
+      [
+        0.43,
+        1.06
+      ],
+      [
+        1.22,
+        -1.25
+      ],
+      [
+        2.64,
+        1.85
+      ],
+      [
+        3.53,
+        1.82
+      ],
+      [
+        4.35,
+        -2.57
+      ],
+      [
+        5.34,
+        -2.53
+      ],
+      [
+        7.22,
+        3.66
+      ],
+      [
+        8.21,
+        3.69
+      ],
+      [
+        9.63,
+        -4.12
+      ],
+      [
+        11.08,
+        -3.98
+      ]
+    ],
+    "status": "provisional_pdf_transcription",
+    "source": "supplied main.pdf; printed coordinates, not digitized curve traces",
+    "limitations": "original exterior knots, solver and manual displacements unavailable"
+  },
+  {
+    "id": "legacy_open_b",
+    "closed": false,
+    "points": [
+      [
+        0,
+        0
+      ],
+      [
+        0.43,
+        1.06
+      ],
+      [
+        1.35,
+        3.27
+      ],
+      [
+        3.25,
+        3.27
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        6.67,
+        0.57
+      ],
+      [
+        8.54,
+        2.01
+      ],
+      [
+        9.58,
+        2.76
+      ],
+      [
+        11.2,
+        3.48
+      ],
+      [
+        11.96,
+        1.18
+      ],
+      [
+        14.58,
+        0.07
+      ]
+    ],
+    "status": "provisional_pdf_transcription",
+    "source": "supplied main.pdf; printed coordinates, not digitized curve traces",
+    "limitations": "original exterior knots, solver and manual displacements unavailable"
+  },
+  {
+    "id": "legacy_open_c",
+    "closed": false,
+    "points": [
+      [
+        0,
+        0
+      ],
+      [
+        0.43,
+        1.06
+      ],
+      [
+        1.35,
+        3.27
+      ],
+      [
+        3.25,
+        3.27
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        6.67,
+        0.57
+      ],
+      [
+        8.54,
+        2.01
+      ],
+      [
+        9.73,
+        3.23
+      ],
+      [
+        11.2,
+        3.48
+      ],
+      [
+        14,
+        2
+      ],
+      [
+        14.51,
+        0.35
+      ]
+    ],
+    "status": "provisional_pdf_transcription",
+    "source": "supplied main.pdf; printed coordinates, not digitized curve traces",
+    "limitations": "original exterior knots, solver and manual displacements unavailable"
+  }
+]

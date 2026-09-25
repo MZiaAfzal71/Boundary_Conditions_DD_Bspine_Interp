@@ -1,0 +1,43 @@
+{
+  "case_count": 252,
+  "fit_count": 1512,
+  "failures": 0,
+  "maximum_residual": 5.033130186920739e-16,
+  "adaptive_count": 144,
+  "integration_warnings": 0,
+  "large_gauss_disagreement_count": 112,
+  "maximum_final_quadrature_error": 8.465708209764921e-07,
+  "minimum_speed": 0.000375616094975103,
+  "pilot_count": 24,
+  "pilot_accepted": 24,
+  "pilot_median_bending_reduction_percent": 4.321069357620027,
+  "pilot_median_distance_change_percent": -0.499812954211698,
+  "pilot_distance_worse_count": 10,
+  "sampling_max_absolute_change": 0.000291119170851269,
+  "paired_stratified_bootstrap": {
+    "0.0": {
+      "median": -8.18343121010423e-08,
+      "ci": [
+        -3.7622187754979277e-06,
+        3.217258794443965e-12
+      ]
+    },
+    "0.5": {
+      "median": 0.00046466582760439225,
+      "ci": [
+        9.293532705062615e-05,
+        0.0008857490924827386
+      ]
+    },
+    "1.0": {
+      "median": 0.0008869353178070068,
+      "ci": [
+        0.00022923741440200466,
+        0.0016132346620562534
+      ]
+    }
+  },
+  "test_count": 20,
+  "periodic_equivalence_error": 2.1094237467877974e-15,
+  "robin_equivalence_error": 7.771561172376096e-16
+}
